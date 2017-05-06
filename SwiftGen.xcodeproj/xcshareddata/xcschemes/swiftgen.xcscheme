@@ -99,6 +99,10 @@
             isEnabled = "NO">
          </CommandLineArgument>
          <CommandLineArgument
+            argument = "json -t model $(PROJECT_DIR)/Resources/Fixtures/JSONModel/Model.json"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
             argument = "storyboards -t swift3 $(PROJECT_DIR)/Resources/Fixtures/Storyboards-iOS"
             isEnabled = "NO">
          </CommandLineArgument>

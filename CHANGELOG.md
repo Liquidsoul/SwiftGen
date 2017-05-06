@@ -26,6 +26,9 @@ _None_
   [Olivier Halligon](https://github.com/alisoftware)
   [#269](https://github.com/SwiftGen/SwiftGenKit/issues/269)
   [#291](https://github.com/SwiftGen/SwiftGenKit/issues/291)
+* Added model and JSON code generation.
+  [Peter Livesey](https://github.com/plivesey)
+  [#188](https://github.com/AliSoftware/SwiftGen/pull/188)
 
 ## 4.2.0
 
